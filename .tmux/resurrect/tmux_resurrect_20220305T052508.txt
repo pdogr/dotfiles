@@ -1,0 +1,13 @@
+pane	0	1	:fish	0	:	1	:/home/revv/projects/jlox-rs	1	nvim	:nvim .
+pane	0	2	:fish	0	:	1	:/home/revv/projects/jlox-rs	1	fish	:
+pane	0	3	:ghc	0	:	1	:/home/revv/prac	1	fish	:
+pane	0	4	:fish	0	:	1	:/home/revv/prac/rwh	1	nvim	:nvim .
+pane	0	5	:ghc	0	:-	1	:/home/revv/prac/rwh	1	ghc	:/home/revv/.stack/programs/x86_64-linux/ghc-tinfo6-8.10.7/lib/ghc-8.10.7/bin/ghc -B/home/revv/.stack/programs/x86_64-linux/ghc-tinfo6-8.10.7/lib/ghc-8.10.7 --interactive -i -odir=/home/revv/prac/rwh/.stack-work/odir -hidir=/home/revv/prac/rwh/.stack-work/odir -hide-all-packages -i/home/revv/prac/rwh/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build -i/home/revv/prac/rwh/src -i/home/revv/prac/rwh/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen -i/home/revv/prac/rwh/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/global-autogen -stubdir=/home/revv/prac/rwh/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build -package-id=base-4.14.3.0 -package-id=hspec-2.7.10-5p0HVzmV9VuBmjJjxYx4EP -i/home/revv/prac/rwh/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/rwh-exe -i/home/revv/prac/rwh/app -i/home/revv/prac/rwh/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/rwh-exe/autogen -i/home/revv/prac/rwh/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/rwh-exe/rwh-exe-tmp -rtsopts -with-rtsopts=-N -optP-include -optP/home/revv/prac/rwh/.stack-work/ghci/121dacd5/cabal_macros.h -ghci-script=/tmp/haskell-stack-ghci/1abffca1/ghci-script
+pane	0	6	:fish	1	:*	1	:/home/revv/prac/rwh	1	fish	:
+window	0	1	0	:	b3fe,126x32,0,0,1
+window	0	2	0	:	b3ff,126x32,0,0,2
+window	0	3	0	:	b980,140x34,0,0,3
+window	0	4	0	:	b1c1,139x31,0,0,4
+window	0	5	0	:-	b182,140x70,0,0,5
+window	0	6	1	:*	b184,140x70,0,0,7
+state	0	

@@ -1,0 +1,7 @@
+pane	0	1	:fish	0	:-	1	:/home/revv/projects/jlox-rs	1	fish	:
+pane	0	2	:fish	0	:	1	:/home/revv/projects/jlox-rs	1	fish	:
+pane	0	3	:git	1	:*	1	:/home/revv/projects/bc	1	fish	:
+window	0	1	0	:-	60d3,157x35,0,0,14
+window	0	2	0	:	c13f,157x35,0,0,2
+window	0	3	1	:*	c140,157x35,0,0,3
+state	0	

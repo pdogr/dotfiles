@@ -1,0 +1,11 @@
+pane	0	1	:nvim	0	:	1	:/home/revv/projects/jlox-rs	1	nvim	:nvim .
+pane	0	2	:fish	0	:	1	:/home/revv/projects/jlox-rs	1	fish	:
+pane	0	3	:nvim	0	:	1	:/home/revv/mygit/melody	1	nvim	:nvim .
+pane	0	4	:nvim	1	:*	1	:/home/revv	1	fish	:
+pane	0	5	:fish	0	:-	1	:/home/revv	1	fish	:
+window	0	1	0	:	bb7e,315x72,0,0,1
+window	0	2	0	:	bb7f,315x72,0,0,2
+window	0	3	0	:	bb80,315x72,0,0,3
+window	0	4	1	:*	c141,157x35,0,0,4
+window	0	5	0	:-	bb82,315x72,0,0,5
+state	0	

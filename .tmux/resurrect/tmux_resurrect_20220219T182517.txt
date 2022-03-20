@@ -1,0 +1,5 @@
+pane	0	1	:fish	1	:*	1	:/home/revv/projects/pratt	1	nvim	:nvim .
+pane	0	2	:[tmux]	0	:-	1	:/home/revv/projects/pratt	1	fish	:
+window	0	1	1	:*	b1bf,139x31,0,0,2
+window	0	2	0	:-	b1c0,139x31,0,0,3
+state	0	

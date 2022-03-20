@@ -1,0 +1,12 @@
+pane	0	1	:nvim	0	:-	1	:/home/revv/projects/lox-interpreter	1	nvim	:nvim .
+pane	0	2	:fish	0	:	1	:/home/revv/projects/lox-interpreter	1	fish	:
+pane	0	3	:fish	0	:	1	:/tmp/dolores	0	nvim	:nvim a.lox
+pane	0	3	:fish	0	:	2	:/tmp/dolores	1	fish	:
+pane	0	4	:fish	0	:	1	:/home/revv/projects/lox-interpreter	1	fish	:
+pane	0	5	:fish	1	:*	1	:/home/revv/projects/lox-interpreter	1	fish	:
+window	0	1	0	:-	b97e,140x34,0,0,1
+window	0	2	0	:	b986,140x34,0,0,9
+window	0	3	0	:	12f9,139x31,0,0[139x15,0,0,3,139x15,0,16,12]
+window	0	4	0	:	5cf2,140x34,0,0,13
+window	0	5	1	:*	5cf3,140x34,0,0,14
+state	0	

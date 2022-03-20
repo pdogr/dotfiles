@@ -1,0 +1,11 @@
+pane	0	1	:nvim	0	:	1	:/home/revv/projects/lox-rs	1	nvim	:nvim .
+pane	0	2	:fish	0	:	1	:/home/revv/projects/lox-rs	1	fish	:
+pane	0	3	:fish	0	:	1	:/home/revv/projects/lox-rs	1	fish	:
+pane	0	4	:nvim	0	:-	1	:/home/revv/projects/lox-interpreter	1	nvim	:nvim .
+pane	0	5	:fish	1	:*	1	:/home/revv/projects/lox-interpreter	1	fish	:
+window	0	1	0	:	cdbe,158x38,0,0,1
+window	0	2	0	:	cdbf,158x38,0,0,2
+window	0	3	0	:	cdc0,158x38,0,0,3
+window	0	4	0	:-	cdc2,158x38,0,0,5
+window	0	5	1	:*	cdc3,158x38,0,0,6
+state	0	

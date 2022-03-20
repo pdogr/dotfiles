@@ -1,0 +1,7 @@
+pane	0	1	:nvim	0	:-	1	:/home/revv/projects/lox-rs	1	nvim	:nvim .
+pane	0	2	:fish	1	:*	1	:/home/revv/projects/lox-rs/ast	1	fish	:
+pane	0	3	:fish	0	:	1	:/home/revv/projects/lox-rs	1	fish	:
+window	0	1	0	:-	afc1,158x40,0,0,4
+window	0	2	1	:*	afc2,158x40,0,0,5
+window	0	3	0	:	5a30,126x32,0,0,11
+state	0	
